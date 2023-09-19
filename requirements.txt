@@ -1,1 +1,5 @@
-
+pytorch==2.0.0+cu118
+tensorflow==2.13.0
+onnx==1.14.0
+onnx-tf==1.10.0
+tensorrt==8.6.1
